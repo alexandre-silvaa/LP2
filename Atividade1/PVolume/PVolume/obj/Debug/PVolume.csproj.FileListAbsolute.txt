@@ -1,0 +1,10 @@
+C:\Users\kaiov\source\repos\PVolume\PVolume\bin\Debug\PVolume.exe.config
+C:\Users\kaiov\source\repos\PVolume\PVolume\bin\Debug\PVolume.exe
+C:\Users\kaiov\source\repos\PVolume\PVolume\bin\Debug\PVolume.pdb
+C:\Users\kaiov\source\repos\PVolume\PVolume\obj\Debug\PVolume.csproj.AssemblyReference.cache
+C:\Users\kaiov\source\repos\PVolume\PVolume\obj\Debug\PVolume.Form1.resources
+C:\Users\kaiov\source\repos\PVolume\PVolume\obj\Debug\PVolume.Properties.Resources.resources
+C:\Users\kaiov\source\repos\PVolume\PVolume\obj\Debug\PVolume.csproj.GenerateResource.cache
+C:\Users\kaiov\source\repos\PVolume\PVolume\obj\Debug\PVolume.csproj.CoreCompileInputs.cache
+C:\Users\kaiov\source\repos\PVolume\PVolume\obj\Debug\PVolume.exe
+C:\Users\kaiov\source\repos\PVolume\PVolume\obj\Debug\PVolume.pdb
