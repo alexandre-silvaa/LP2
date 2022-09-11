@@ -1,0 +1,10 @@
+C:\Users\kaiov\source\repos\Atividade2\Atividade2\bin\Debug\Atividade2.exe.config
+C:\Users\kaiov\source\repos\Atividade2\Atividade2\bin\Debug\Atividade2.exe
+C:\Users\kaiov\source\repos\Atividade2\Atividade2\bin\Debug\Atividade2.pdb
+C:\Users\kaiov\source\repos\Atividade2\Atividade2\obj\Debug\Atividade2.csproj.AssemblyReference.cache
+C:\Users\kaiov\source\repos\Atividade2\Atividade2\obj\Debug\Atividade2.Form1.resources
+C:\Users\kaiov\source\repos\Atividade2\Atividade2\obj\Debug\Atividade2.Properties.Resources.resources
+C:\Users\kaiov\source\repos\Atividade2\Atividade2\obj\Debug\Atividade2.csproj.GenerateResource.cache
+C:\Users\kaiov\source\repos\Atividade2\Atividade2\obj\Debug\Atividade2.csproj.CoreCompileInputs.cache
+C:\Users\kaiov\source\repos\Atividade2\Atividade2\obj\Debug\Atividade2.exe
+C:\Users\kaiov\source\repos\Atividade2\Atividade2\obj\Debug\Atividade2.pdb
