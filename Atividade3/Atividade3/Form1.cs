@@ -67,6 +67,8 @@ namespace Atividade3
             txtAltura.Clear();
             txtPeso.Clear();
             txtIMC.Clear();
+
+            txtAltura.Focus();
         }
 
         private void btnSair_Click(object sender, EventArgs e)
