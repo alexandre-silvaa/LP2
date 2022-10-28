@@ -21,3 +21,16 @@ C:\Users\Pichau\source\repos\PTesteClasse\bin\Debug\PTesteClasse.exe
 C:\Users\Pichau\source\repos\PTesteClasse\bin\Debug\PTesteClasse.pdb
 C:\Users\Pichau\source\repos\PTesteClasse\obj\Debug\PTesteClasse.exe
 C:\Users\Pichau\source\repos\PTesteClasse\obj\Debug\PTesteClasse.pdb
+C:\workspace\LP2\Atividade5\bin\Debug\PTesteClasse.exe.config
+C:\workspace\LP2\Atividade5\bin\Debug\PTesteClasse.exe
+C:\workspace\LP2\Atividade5\bin\Debug\PTesteClasse.pdb
+C:\workspace\LP2\Atividade5\obj\Debug\PTesteClasse.csproj.AssemblyReference.cache
+C:\workspace\LP2\Atividade5\obj\Debug\PTesteClasse.csproj.SuggestedBindingRedirects.cache
+C:\workspace\LP2\Atividade5\obj\Debug\PTesteClasse.Forms.frmHorista.resources
+C:\workspace\LP2\Atividade5\obj\Debug\PTesteClasse.Forms.frmMensalista.resources
+C:\workspace\LP2\Atividade5\obj\Debug\PTesteClasse.Forms.frmPrincipal.resources
+C:\workspace\LP2\Atividade5\obj\Debug\PTesteClasse.Properties.Resources.resources
+C:\workspace\LP2\Atividade5\obj\Debug\PTesteClasse.csproj.GenerateResource.cache
+C:\workspace\LP2\Atividade5\obj\Debug\PTesteClasse.csproj.CoreCompileInputs.cache
+C:\workspace\LP2\Atividade5\obj\Debug\PTesteClasse.exe
+C:\workspace\LP2\Atividade5\obj\Debug\PTesteClasse.pdb
