@@ -1,0 +1,15 @@
+C:\workspace\LP2\Atividade7\bin\Debug\Pmetodos.exe.config
+C:\workspace\LP2\Atividade7\bin\Debug\Pmetodos.exe
+C:\workspace\LP2\Atividade7\bin\Debug\Pmetodos.pdb
+C:\workspace\LP2\Atividade7\obj\Debug\Pmetodos.csproj.AssemblyReference.cache
+C:\workspace\LP2\Atividade7\obj\Debug\Pmetodos.csproj.SuggestedBindingRedirects.cache
+C:\workspace\LP2\Atividade7\obj\Debug\Pmetodos.Forms.frmPrincipal.resources
+C:\workspace\LP2\Atividade7\obj\Debug\Pmetodos.Properties.Resources.resources
+C:\workspace\LP2\Atividade7\obj\Debug\Pmetodos.csproj.GenerateResource.cache
+C:\workspace\LP2\Atividade7\obj\Debug\Pmetodos.csproj.CoreCompileInputs.cache
+C:\workspace\LP2\Atividade7\obj\Debug\Pmetodos.exe
+C:\workspace\LP2\Atividade7\obj\Debug\Pmetodos.pdb
+C:\workspace\LP2\Atividade7\obj\Debug\Pmetodos.Forms.frmExercicio2.resources
+C:\workspace\LP2\Atividade7\obj\Debug\Pmetodos.Forms.frmExercicio3.resources
+C:\workspace\LP2\Atividade7\obj\Debug\Pmetodos.Forms.frmExercicio4.resources
+C:\workspace\LP2\Atividade7\obj\Debug\Pmetodos.Forms.frmExercicio5.resources
